@@ -1,0 +1,15 @@
+hello world
+hello there
+transformers use attention
+attention is all you need
+mini gpt learns characters
+character level language model
+the cat sat on the mat
+the dog sat on the log
+encode decode generate text
+byte pair encoding helps
+positional encoding matters
+scaled dot product attention
+train a tiny transformer
+sample with temperature
+top k and nucleus sampling
