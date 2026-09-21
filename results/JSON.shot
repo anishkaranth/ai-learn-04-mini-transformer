@@ -1,0 +1,8 @@
+{
+  "snapshot": "smoke_run",
+  "seed": 42,
+  "final_loss": 2.7890207223218315,
+  "mean_last_50": 2.385044542081744,
+  "vocab_size": 25,
+  "runtime_s": 0.452
+}

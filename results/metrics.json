@@ -1,0 +1,14 @@
+{
+  "project": "ai-learn-04-mini-transformer",
+  "seed": 42,
+  "vocab_size": 25,
+  "d_model": 48,
+  "n_heads": 4,
+  "n_layers": 2,
+  "steps": 400,
+  "final_loss": 2.7890207223218315,
+  "best_loss": 1.9380531955249638,
+  "mean_last_50": 2.385044542081744,
+  "initial_loss": 3.225035454767024,
+  "runtime_s": 0.452
+}
